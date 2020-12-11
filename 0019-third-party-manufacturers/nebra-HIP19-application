@@ -1,0 +1,68 @@
+# Nebra Ltd / Pi Supply
+### Application to become an approved third party manufacturer as per [HIP19](https://github.com/helium/HIP/blob/master/0019-third-party-manufacturers.md)
+
+## Summary
+
+Two sentences about who you are and what you’d like to build. Bonus points to include photos and links. 
+
+## Company Information
+
+Nebra Ltd (also trading as [Pi Supply](https://www.pi-supply.com), [StakeBox](https://www.stakebox.org), and [JustBoom](https://www.justboom.co)) is a manufacturer of embedded electronics devices including LoRa, UPS modules, epaper displays, high quality audio, casing and accessories and more. The company was established in 2008 and since then we have sold many hundreds of thousands of our own brand products through our own websites and through our network of over 100 resellers and distributors worldwide (including Digi-key, Arrow, Sparkfun, Adafruit and many more).
+
+We have been working with LoRa products for a few years now and have been actively engaged in the LoRa community as part of The Things Network and various industry related events. We have also been involved in a variety of cryptocurrency projects through our work on StakeBox. As Helium effectively brings both of these sides of the business together we feel that this was perhaps inevitable :-).
+
+**Some useful company info**
+* UK Company number - [06732600](https://find-and-update.company-information.service.gov.uk/company/06732600)
+* UK VAT number - GB946140037
+* WEEE registration - WEE/HA4235XX
+* ICO registration - [ZA139031](https://ico.org.uk/ESDWebPages/Entry/ZA139031)
+
+## Product Information
+
+Your time to shine! What are you building? What’s so great about it? Do you have an approximate price point? Photos and videos welcome.
+
+* Detailed hardware designs, including relevant parts
+* Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better.
+* Your plan for software setup and configuration for the devices. This would presumably include remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise.
+* What is your expected production and delivery timeline?
+
+## Customer Support
+
+As we already run our own web shop, Amazon and eBay stores, and a sizeable distributor network we have a well established order and technical support setup, as well as being able to manage faulty returns and replacements with ease. 
+
+We provide standard product warranties on everything we sell and on top of this we also have substantial product liability insurance and goods in transit insurance to cover all shipments. This is to ensure that we are able to fulfill our obligations even in the most extreme and unlikely of circumstances.
+
+## Hardware Security
+
+The community is concerned about devices that can be easily hacked, specifically by copying their `swarm_key` files. Applications should include plan for how the devices will be secured, potentially including:
+
+* Encrypted/locked-down firmware
+* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures like an ECC chip
+* Encrypted buses, potting and other anti-tampering measures.
+* Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail)
+
+## Manufacturing Information
+
+Have you built and delivered hardware projects before? If yes, how did it go, and how many did you make? If not, from whom will you get help? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
+
+## Proof of Identity
+
+Have submitted this information to @jamiew via email. Can be confirmed in a comment.
+
+## Budget & Capital
+
+How many of these are you hoping to make and sell? How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? What is your plan for additional financing if required? This is the second biggest risk in new hardware ventures -- getting almost over the line and then running out of cash.
+
+## Risks & Challenges
+
+Please tell us about some of the challenges that would prevent these products from becoming a reality, and how you might address them.
+
+## Other information
+
+* Desired Discord support channel name - #Nebra or #NebraLtd or #PiSupply
+* Twitter profile - https://www.twitter.com/PiSupply
+* Facebook profile - https://www.facebook.com/PiSupply
+* Other social profiles - [YouTube](https://youtube.com/c/PiSupply) and [Instagram](https://www.instagram.com/pisupply)
+* Website - https://www.pi-supply.com
+* Payment methods available - credit/debit card, PayPal, bitcoin, various other crypto payments, Amazon pay, Apple pay, Google pay, bank transfer for large payments
+* Regions covered / shipped to - worldwide
